@@ -24,6 +24,6 @@ CSS3 – For styling and layout design.
 
 JavaScript – For dynamic and interactive validation logic.
 
-🎯 Project Aim
+🎯 Project Aim:
 
 To design and implement an interactive web form that improves user experience and ensures accurate data submission through real-time validation techniques.
